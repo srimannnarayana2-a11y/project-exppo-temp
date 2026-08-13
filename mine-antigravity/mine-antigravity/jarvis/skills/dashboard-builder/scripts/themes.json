@@ -1,0 +1,32 @@
+{
+  "midnight": {
+    "bg": "0B1220",
+    "bgAlt": "121B2E",
+    "text": "F5F7FA",
+    "textMuted": "9AA7B8",
+    "accent": "5EEAD4",
+    "cardBg": "182338",
+    "fontTitle": "Georgia",
+    "fontBody": "Helvetica"
+  },
+  "paper": {
+    "bg": "FFFFFF",
+    "bgAlt": "F4F4F5",
+    "text": "18181B",
+    "textMuted": "52525B",
+    "accent": "D64545",
+    "cardBg": "F4F4F5",
+    "fontTitle": "Georgia",
+    "fontBody": "Helvetica"
+  },
+  "forest": {
+    "bg": "0F1F17",
+    "bgAlt": "16291F",
+    "text": "F1F5F2",
+    "textMuted": "A7B8AD",
+    "accent": "F2C879",
+    "cardBg": "1C3226",
+    "fontTitle": "Georgia",
+    "fontBody": "Helvetica"
+  }
+}

@@ -1,0 +1,23 @@
+# Block sensitive credentials and environment files
+.env
+.env.local
+*.env
+
+# Block python dependencies and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.poetry.lock
+poetry.lock
+
+# Block javascript dependencies and build caches
+node_modules/
+dist/
+build/
+.next/
+
+# Block system files
+.DS_Store
+Thumbs.db

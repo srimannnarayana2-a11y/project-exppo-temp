@@ -1,0 +1,29 @@
+# Agent Research Backend — dependencies
+# Core
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0
+
+# HTTP client
+aiohttp>=3.9.0
+
+# Numerical
+numpy>=1.24.0
+
+# Server
+python-multipart>=0.0.6
+websockets>=12.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# --- Optional: Output rendering ---
+# pip install python-docx python-pptx weasyprint
+# python-docx>=1.0.0    # DOCX generation
+# python-pptx>=0.6.21   # PPTX generation
+# weasyprint>=60.0       # PDF generation (needs system libs: Cairo, Pango)
+
+# --- Optional: Document ingestion ---
+# pip install pymupdf openpyxl
+# pymupdf>=1.24.0        # PDF ingestion
+# openpyxl>=3.1.0         # XLSX ingestion

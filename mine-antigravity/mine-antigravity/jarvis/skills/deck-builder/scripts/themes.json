@@ -1,0 +1,80 @@
+{
+  "midnight": {
+    "name": "Midnight",
+    "bg": "0a0f1e",
+    "text": "e2e8f0",
+    "accent": "22d3ee",
+    "accent2": "818cf8",
+    "subtitleColor": "94a3b8",
+    "statColor": "22d3ee",
+    "quoteColor": "818cf8",
+    "headingFont": "Calibri",
+    "bodyFont": "Calibri",
+    "mood": "Dark, tech-forward, futuristic"
+  },
+  "paper": {
+    "name": "Paper",
+    "bg": "fafaf9",
+    "text": "1c1917",
+    "accent": "dc2626",
+    "accent2": "ea580c",
+    "subtitleColor": "78716c",
+    "statColor": "dc2626",
+    "quoteColor": "ea580c",
+    "headingFont": "Georgia",
+    "bodyFont": "Arial",
+    "mood": "Clean, editorial, professional"
+  },
+  "forest": {
+    "name": "Forest",
+    "bg": "0f2417",
+    "text": "ecfdf5",
+    "accent": "34d399",
+    "accent2": "6ee7b7",
+    "subtitleColor": "a7f3d0",
+    "statColor": "34d399",
+    "quoteColor": "6ee7b7",
+    "headingFont": "Calibri",
+    "bodyFont": "Calibri",
+    "mood": "Nature, sustainability, growth"
+  },
+  "ocean": {
+    "name": "Ocean",
+    "bg": "0c1445",
+    "text": "e0f2fe",
+    "accent": "38bdf8",
+    "accent2": "7dd3fc",
+    "subtitleColor": "bae6fd",
+    "statColor": "38bdf8",
+    "quoteColor": "7dd3fc",
+    "headingFont": "Calibri",
+    "bodyFont": "Calibri",
+    "mood": "Deep, trustworthy, financial"
+  },
+  "corporate": {
+    "name": "Corporate",
+    "bg": "ffffff",
+    "text": "1e293b",
+    "accent": "1e40af",
+    "accent2": "3b82f6",
+    "subtitleColor": "475569",
+    "statColor": "1e40af",
+    "quoteColor": "3b82f6",
+    "headingFont": "Arial",
+    "bodyFont": "Arial",
+    "mood": "Formal, conservative, enterprise"
+  },
+  "neon": {
+    "name": "Neon",
+    "bg": "0d0d0d",
+    "text": "f0f0f0",
+    "accent": "ff006e",
+    "accent2": "fb5607",
+    "subtitleColor": "a0a0a0",
+    "statColor": "ff006e",
+    "quoteColor": "fb5607",
+    "headingFont": "Calibri",
+    "bodyFont": "Calibri",
+    "mood": "Bold, startup, attention-grabbing"
+  }
+}
